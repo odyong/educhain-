@@ -1,0 +1,8 @@
+{
+  "name": "EduChain Enterprise PWA",
+  "description": "A secure, hierarchical school management system designed for long-term data retention and academic excellence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
